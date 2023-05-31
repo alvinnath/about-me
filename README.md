@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvin Nathanael</h1>
-<h3 align="center">A passionate Data Science field from Indonesia</h3>
+<h3 align="center">🌊🌊🌊 A passionate Data Science field from Indonesia 🚢🚢🚢 </h3>
 
 <img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/715291130376385863/4FDCF2076827D9E5202C159AC64F317F10206253/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
